@@ -1,5 +1,7 @@
 Laatst toegevoegde samenvattingen:
 
+BELANGRIJK: Samenvattingen voor de examens staan onder het vak EXAMENS
+
 04/03/18: Nieuwe samenvatting biologie: Examen M2
 
 04/03/18: Nieuwe samenvatting engels: Examen M2
@@ -7,8 +9,6 @@ Laatst toegevoegde samenvattingen:
 04/03/18: Nieuwe samenvatting nederlands: Examen M2
 
 03/03/18: Nieuwe samenvatting aardrijkskunde: Examen M2
-
-03/03/18: BELANGRIJK: Samenvattingen voor de examens staan onder het vak EXAMENS
 
 28/02/18: Nieuwe samenvatting wiskunde: Geogebra
 
@@ -29,7 +29,6 @@ Laatst toegevoegde samenvattingen:
 22/02/18: Nieuwe samenvatting biologie: Module 2
 
 22/02/18: Nieuwe samenvatting chemie: Chemisch Evenwicht
-
 22/02/18: Nieuwe samenvatting chemie: Atomen en Moleculen
 
 22/02/18: Nieuwe samenvatting wiskunde: Goniometrie
