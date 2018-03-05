@@ -150,7 +150,6 @@ img:hover {
 	width: 85%;
 	float: left;
 }
-/*
 .list2 {
 	display: none;
 	position: absolute;
@@ -162,7 +161,6 @@ img:hover {
 	width: 85%;
 	float: left;
 }
-*/
 .closebtn {
 	float: right;
 	transition: 0.3s;
@@ -243,7 +241,6 @@ img:hover {
 	height: 1px;
 	background: gray;
 }
-/*
 .module {
 	background-color: white;
 	display: inline-block;
@@ -272,4 +269,3 @@ img:hover {
 	margin-left: -15%;
 	font-size: 25px;
 }
-*/
