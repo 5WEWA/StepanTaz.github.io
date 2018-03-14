@@ -131,8 +131,6 @@ img:hover {
 .navBar a:hover {
 	color: grey;
 }
-.navBar .a2{
-}
 #navBarFull {
 	width: 100%;
 	height: 100%;
@@ -141,6 +139,7 @@ img:hover {
 	z-index: 1;	
 }
 .list1 {
+	display: none;
 	position: absolute;
 	top: 2%;
 	left: 0;
@@ -152,6 +151,16 @@ img:hover {
 }
 .list2 {
 	display: none;
+	position: absolute;
+	top: 2%;
+	left: 0;
+	overflow-y: auto;
+	overflow-x: hidden;
+	max-height: 82%;
+	width: 85%;
+	float: left;
+}
+.list3 {
 	position: absolute;
 	top: 2%;
 	left: 0;
@@ -263,9 +272,13 @@ img:hover {
 }
 #m1 {
 	margin-left: -15%;
-	font-size: 25px;
+	font-size: 20px;
 }
 #m2 {
 	margin-left: -15%;
-	font-size: 25px;
+	font-size: 20px;
+}
+#m3 {
+	margin-left: -15%;
+	font-size: 20px;
 }
