@@ -165,6 +165,20 @@ window.onclick = function(event) {
         closeAll();
     }   
 }
+$(document).ready(function() {
+    $(window).on('orientationchange', function(event) {
+        if (screen.height < screen.width){
+        $(".module").css({
+            "top": "13%"
+        });
+        }
+        else {
+            $(".module").css({
+                "top": "9%"
+            });
+        }
+    });
+});
 tabCheck = 0;
 function moduleTab() {
     if (tabCheck == 0) {
@@ -173,9 +187,16 @@ function moduleTab() {
             "display": "block"
         });
         tabCheck++;
+        if (isMobile.any()) {
         $(".list").css({
-            "margin-top": "65%"
+            "margin-top": "57%"
         });
+        }
+        else {
+        $(".list").css({
+            "margin-top": "70%"
+        });
+        }
     }
     else {
         $(".module").fadeOut(200);
@@ -247,13 +268,13 @@ function mobile() {
             $(".navList").css({
                 "font-size": "20px"
             });
-            $("#m1").css({
+            $(".m1").css({
                 "font-size": "20px"
             });
-            $("#m2").css({
+            $(".m2").css({
                 "font-size": "20px"
             });
-            $("#m3").css({
+            $(".m3").css({
                 "font-size": "20px"
             });
             $(".popupContentInner").css({
